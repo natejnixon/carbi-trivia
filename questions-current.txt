@@ -1,8 +1,9 @@
-# Carbi-Trivia question list: 600 questions (written 2026-11-13)
+# Carbi-Trivia question list: 605 questions (written 2026-11-13)
 # Batch 2026-W46: 300 questions (about 30 Once Human, about 185 other games, the rest general knowledge).
 # Batch reserve-1: 300 more in the same mix, kept as a buffer. Both batches are live in this file.
 # Format (one per line):  Question | Correct answer / other accepted spellings | Wrong 1 | Wrong 2 | Wrong 3
 # Lines starting with # are ignored. question-history.tsv tracks every question ever used.
+# Plus 5 permanent Carbi facts that are never retired by the weekly rotation.
 
 # --- [2026-W46] Once Human ---
 Which studio developed the survival game Once Human? | Starry Studio | Riot Games | FromSoftware | Bungie
@@ -670,3 +671,10 @@ What is 15 percent of 200? | 30 | 15 | 20 | 35
 How many zeros are in one million? | 6 / Six | 5 | 7 | 9
 How many letters are in the English alphabet? | 26 / Twenty-six / Twenty six | 24 | 25 | 28
 Which letter is used most often in English words? | E | A | T | S
+
+# --- Carbi facts (permanent) ---
+What band's concert did Carbi call a "religious experience"? | Sleep Token | Black Veil | The Silent Years | Imagine Dragons
+According to the caption on Carbi's pie tier list, which cream pie did she call the worst? | Coconut cream / Coconut cream pie | Banana cream | Chocolate cream | Lemon cream
+Which Once Human season did Carbi beg chat not to make her go back to? | Winter / Way of Winter / The winter scenario | Summer | The desert | The city
+What unusual question does Carbi keep asking ghosts in Phasmophobia? | Do you believe in the Book of Mormon? / Book of Mormon | What's your favorite pizza? | Are you a streamer? | Do you like Once Human?
+Why did Carbi joke that she avoided Tubby's Discord one night? | They were streaming a scary movie / A scary movie | The server was down | It was a raid night | She had no internet
