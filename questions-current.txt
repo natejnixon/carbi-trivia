@@ -1,9 +1,10 @@
-# Carbi-Trivia question list: batch 2026-W46 (written 2026-11-13)
-# 300 family-friendly questions: about 30 Once Human, about 200 other games, the rest general knowledge.
+# Carbi-Trivia question list: 600 questions (written 2026-11-13)
+# Batch 2026-W46: 300 questions (about 30 Once Human, about 185 other games, the rest general knowledge).
+# Batch reserve-1: 300 more in the same mix, kept as a buffer. Both batches are live in this file.
 # Format (one per line):  Question | Correct answer / other accepted spellings | Wrong 1 | Wrong 2 | Wrong 3
-# Lines starting with # are ignored. This whole file is replaced each week.
+# Lines starting with # are ignored. question-history.tsv tracks every question ever used.
 
-# --- Once Human ---
+# --- [2026-W46] Once Human ---
 Which studio developed the survival game Once Human? | Starry Studio | Riot Games | FromSoftware | Bungie
 Starry Studio, the maker of Once Human, is part of which big game company? | NetEase / NetEase Games | Tencent | Ubisoft | Nexon
 In what year did Once Human launch on PC? | 2024 | 2022 | 2023 | 2025
@@ -35,7 +36,7 @@ In Once Human, which currency do you spend to unlock and upgrade weapon and armo
 In Once Human, what are the skill-like upgrades you unlock with ciphers called? | Memetics / Memetic | Perks | Talents | Runes
 In Once Human, what are the strange creatures you can capture to fight with you or gather resources? | Deviations / Deviants / Deviation / Deviant | Familiars | Spirits | Drones
 
-# --- Nintendo ---
+# --- [2026-W46] Nintendo ---
 What is the name of Bowser's son, who debuted in Super Mario Sunshine? | Bowser Jr. / Bowser Jr / Junior | Kamek | Wart | Wario
 Which Mario character is the greedy rival in a yellow cap and purple overalls? | Wario | Waluigi | Luigi | Toad
 In most Mario games, what do you collect 100 of to earn an extra life? | Coins / Coin | Stars | Mushrooms | Rings
@@ -74,7 +75,7 @@ In Super Mario, what are the brown mushroom-shaped enemies that walk back and fo
 In Super Mario, what are the ghosts that cover their faces when you look at them? | Boos / Boo | Shy Guys | Goombas | Lakitus
 In Mario Party, what do players collect to win the game? | Stars / Star | Keys | Gems | Mushrooms
 
-# --- Pokémon ---
+# --- [2026-W46] Pokémon ---
 What is the name of Ash's hometown in the Pokémon anime? | Pallet Town / Pallet | Viridian City | Cerulean City | Pewter City
 Which giant sleepy Pokémon is famous for blocking roads? | Snorlax | Slowpoke | Jigglypuff | Wailord
 Which Pokémon sings everyone to sleep and then gets angry when nobody listens? | Jigglypuff | Clefairy | Togepi | Chansey
@@ -91,7 +92,7 @@ Which Pokémon games take place in the Galar region? | Sword and Shield / Pokém
 What is the name of the Fire-type starter in Pokémon Scarlet and Violet? | Fuecoco | Scorbunny | Litten | Fennekin
 Which company developed the mobile game Pokémon Go? | Niantic | Supercell | Rovio | King
 
-# --- Minecraft ---
+# --- [2026-W46] Minecraft ---
 In Minecraft, what is the weakest pickaxe that can mine diamond ore? | Iron pickaxe / Iron pick / Iron | Wooden pickaxe | Stone pickaxe | Gold pickaxe
 In Minecraft, what tall dark mob teleports and gets angry if you look at it? | Enderman | Creeper | Wither | Phantom
 What is the name of the final boss you fight in The End in Minecraft? | Ender Dragon / The Ender Dragon | Wither | Elder Guardian | Warden
@@ -107,7 +108,7 @@ In Minecraft, what do you sleep in to skip the night and set your spawn point? |
 What are the names of the two default player characters in Minecraft? | Steve and Alex / Alex and Steve | Sam and Max | Finn and Jake | Bob and Ann
 Which studio makes Minecraft? | Mojang / Mojang Studios | Innersloth | Re-Logic | Valve
 
-# --- Battle royale and online ---
+# --- [2026-W46] Battle royale and online ---
 Which company makes Fortnite? | Epic Games / Epic | Valve | Riot Games | Blizzard
 What does the screen say when you win a match of Fortnite? | Victory Royale | Chicken Dinner | Flawless Victory | Last One Standing
 What famous phrase appears when you win a match of PUBG? | Winner Winner Chicken Dinner / Chicken Dinner | Victory Royale | Game Set | You Survived
@@ -119,7 +120,7 @@ Which studio made Among Us? | Innersloth | Mojang | Supercell | Team Cherry
 In Fall Guys, what are the wobbly playable characters often called? | Beans / Jellybeans / Jelly beans | Robots | Penguins | Blobs
 In Rocket League, what sport do the cars play? | Soccer / Football | Basketball | Hockey | Volleyball
 
-# --- Sega and classics ---
+# --- [2026-W46] Sega and classics ---
 What are the golden collectibles Sonic gathers? | Rings / Ring | Coins | Stars | Gems
 What is the name of Sonic's two-tailed fox friend? | Tails / Miles Prower | Knuckles | Shadow | Amy
 Who is Sonic's main villain? | Dr. Eggman / Eggman / Dr. Robotnik / Robotnik | Dr. Wily | Bowser | Dr. Cortex
@@ -138,7 +139,7 @@ Who is the main villain of the Crash Bandicoot games? | Dr. Neo Cortex / Neo Cor
 What color is Spyro? | Purple | Green | Red | Blue
 What was Sony's first handheld game console? | PSP / PlayStation Portable | PS Vita | Game Gear | Neo Geo Pocket
 
-# --- Big franchises ---
+# --- [2026-W46] Big franchises ---
 In Halo, what is the name of Master Chief's AI partner? | Cortana | Siri | EDI | GLaDOS
 In The Last of Us, what is the name of the girl Joel protects? | Ellie | Clementine | Tess | Riley
 In the Norse God of War games, what is Kratos's son's name? | Atreus | Baldur | Brok | Mimir
@@ -175,7 +176,7 @@ The original Doom takes place on the moons of which planet? | Mars | Venus | Jup
 In Kingdom Hearts, which two Disney characters travel with Sora? | Donald and Goofy / Goofy and Donald / Donald Duck and Goofy | Mickey and Minnie | Timon and Pumbaa | Chip and Dale
 What is the name of Sora's key-shaped weapon in Kingdom Hearts? | Keyblade | Gunblade | Buster Sword | Master Sword
 
-# --- Final Fantasy ---
+# --- [2026-W46] Final Fantasy ---
 Who is the spiky-haired hero of Final Fantasy VII? | Cloud / Cloud Strife | Squall | Tidus | Zack
 What is the name of the evil power company in Final Fantasy VII? | Shinra / Shinra Electric | Umbrella | Rosetta | Aperture
 Who is the silver-haired main villain of Final Fantasy VII? | Sephiroth | Kefka | Ultimecia | Seymour
@@ -187,7 +188,7 @@ In Final Fantasy XIV, which desert city-state is famous for its wealth? | Ul'dah
 In Final Fantasy XIV, which race has cat ears and a tail? | Miqo'te / Miqote | Lalafell | Au Ra | Roegadyn
 In Final Fantasy XIV, which race is the smallest? | Lalafell | Miqo'te | Elezen | Roegadyn
 
-# --- Carbi's games ---
+# --- [2026-W46] Carbi's games ---
 In Phasmophobia, which tool beeps and lights up when a ghost touches things nearby? | EMF Reader / EMF / EMF Meter | Spirit Box | Thermometer | UV Light
 In Phasmophobia, which tool lets you ask the ghost questions and hear it answer? | Spirit Box | EMF Reader | Video Camera | Crucifix
 In Phasmophobia, which item can stop a ghost from starting a hunt near it? | Crucifix | Thermometer | Photo Camera | Parabolic Microphone
@@ -198,7 +199,7 @@ Which studio made Clair Obscur: Expedition 33? | Sandfall Interactive / Sandfall
 Clair Obscur: Expedition 33 was made by a studio from which country? | France / French | Japan | Canada | Sweden
 In Clair Obscur: Expedition 33, who paints a number each year that erases everyone of that age? | The Paintress / Paintress | The Curator | The Sculptor | The Mime
 
-# --- Indie and cozy ---
+# --- [2026-W46] Indie and cozy ---
 In Stardew Valley, what is the name of the town next to your farm? | Pelican Town | Pallet Town | Oakhaven | Willow Creek
 In Stardew Valley, which big corporate store competes with Pierre's? | JojaMart / Joja / Joja Corporation | MegaMart | ValleyCo | FarmFresh
 In Stardew Valley, how many days long is each season? | 28 / Twenty-eight / Twenty eight | 30 | 31 | 14
@@ -224,14 +225,14 @@ What made-up language do characters speak in The Sims? | Simlish | Simspeak | Pl
 What is the money called in The Sims? | Simoleons / Simoleon | Simbucks | Plumbobs | Sim Dollars
 Which classic Sims cheat code gives you 50,000 Simoleons? | motherlode | rosebud | kaching | moneybags
 
-# --- Souls and action ---
+# --- [2026-W46] Souls and action ---
 Which studio developed Elden Ring? | FromSoftware / From Software | Capcom | Square Enix | Konami
 Which famous fantasy author helped create the world of Elden Ring? | George R. R. Martin / George RR Martin / GRRM | J.K. Rowling | Stephen King | Neil Gaiman
 In Dark Souls, what do you rest at to heal and save your progress? | Bonfire / Bonfires / A bonfire | Campfire | Shrine | Altar
 In Elden Ring, what are the golden checkpoints you rest at called? | Sites of Grace / Site of Grace / Grace | Bonfires | Lanterns | Shrines
 In Elden Ring, what is the name of your ghostly horse? | Torrent | Epona | Agro | Shadowfax
 
-# --- Gaming words and streaming ---
+# --- [2026-W46] Gaming words and streaming ---
 What does RPG stand for? | Role-playing game / Role playing game / Roleplaying game | Real player gear | Rapid power gaming | Random play generator
 In shooter games, what does FPS stand for? | First-person shooter / First person shooter | Fast-paced shooting | Free play system | Final player standing
 What does GG mean in gaming chat? | Good game | Get going | Great grinding | Go go
@@ -243,7 +244,7 @@ In speedrunning, what does PB stand for? | Personal best | Power boost | Pro bui
 Which purple-themed streaming site is owned by Amazon? | Twitch | YouTube | Kick | Facebook Gaming
 What are the little animated currency viewers use to cheer on Twitch called? | Bits | Coins | Gems | Kicks
 
-# --- Geography ---
+# --- [2026-W46] Geography ---
 What is the capital of Canada? | Ottawa | Toronto | Vancouver | Montreal
 What is the capital of Australia? | Canberra | Sydney | Melbourne | Perth
 What is the capital of Italy? | Rome | Milan | Venice | Florence
@@ -271,7 +272,7 @@ What is the currency of Japan? | Yen | Won | Yuan | Ringgit
 What is the currency of the United Kingdom? | Pound / Pound sterling / British pound / Pounds | Euro | Dollar | Franc
 What is the tallest building in the world? | Burj Khalifa | Shanghai Tower | Empire State Building | CN Tower
 
-# --- Science and nature ---
+# --- [2026-W46] Science and nature ---
 How many planets are in our solar system? | 8 / Eight | 9 | 7 | 10
 Which planet is closest to the Sun? | Mercury | Venus | Mars | Earth
 Which planet is famous for its big bright rings? | Saturn | Jupiter | Uranus | Neptune
@@ -293,7 +294,7 @@ What do koalas mostly eat? | Eucalyptus / Eucalyptus leaves / Gum leaves | Bambo
 What is the tallest animal on Earth? | Giraffe | Elephant | Camel | Moose
 What do bees collect from flowers to make honey? | Nectar | Pollen | Sap | Dew
 
-# --- Numbers ---
+# --- [2026-W46] Numbers ---
 How many days are in a leap year? | 366 | 365 | 364 | 367
 How many colors are in a traditional rainbow? | 7 / Seven | 5 | 6 | 8
 What color do you get when you mix blue and yellow paint? | Green | Purple | Orange | Brown
@@ -306,7 +307,7 @@ What number is the Roman numeral X? | 10 / Ten | 5 | 50 | 100
 Which month has the fewest days? | February | April | June | November
 What is a word that reads the same backward and forward, like "racecar"? | Palindrome | Anagram | Acronym | Homophone
 
-# --- History, books and movies ---
+# --- [2026-W46] History, books and movies ---
 Who was the first President of the United States? | George Washington / Washington | Abraham Lincoln | Thomas Jefferson | John Adams
 Who was the first person to walk on the Moon? | Neil Armstrong / Armstrong | Buzz Aldrin | Yuri Gagarin | John Glenn
 In what year did people first land on the Moon? | 1969 | 1959 | 1972 | 1965
@@ -327,7 +328,7 @@ What is the name of Superman's home planet? | Krypton | Mars | Asgard | Vulcan
 What is Spider-Man's real name? | Peter Parker / Peter | Bruce Wayne | Tony Stark | Clark Kent
 What is the name of Thor's hammer? | Mjolnir / Mjölnir | Stormbreaker | Gungnir | Excalibur
 
-# --- Sports and food ---
+# --- [2026-W46] Sports and food ---
 How many players does each soccer team have on the field? | 11 / Eleven | 9 | 10 | 12
 How many players does each basketball team have on the court? | 5 / Five | 6 | 7 | 4
 In which sport do you score a touchdown? | American football / Football | Soccer | Baseball | Hockey
@@ -336,3 +337,336 @@ How often are the Summer Olympics usually held? | Every four years / Four years 
 How many rings are in the Olympic logo? | 5 / Five | 4 | 6 | 7
 What is the main ingredient in guacamole? | Avocado | Tomato | Cucumber | Peas
 Pizza Margherita comes from which country? | Italy | France | Greece | Spain
+
+# ===== Reserve batch: reserve-1 (added 2026-11-13) =====
+# --- [reserve-1] Once Human ---
+In Once Human, what is the name of the land where the story takes place? | Nalcott | Hyrule | Tamriel | Eorzea
+In Once Human, which region is the first one new players explore? | Dayton Wetlands | Red Sands | Blackheart | Chalk Peak
+In Once Human, what is the first major settlement you reach in Dayton Wetlands? | Deadsville | Blackfell | Greywater Camp | Tall Grass Inn
+In Once Human, which desert region holds Blackfell and most of the crude oil? | Red Sands | Dayton Wetlands | Iron River | Broken Delta
+In Once Human, which boss waits inside the Monolith of Greed in Dayton Wetlands? | Ravenous Hunter | Shadow Hound | Treant | Arachsiam
+In Once Human, which giant spider-like boss lives in the Mirage Monolith in Iron River? | Arachsiam | Treant | Shadow Hound | Forsaken Giant
+In Once Human, which tree boss is found in the Gaia Cliff Monolith in Broken Delta? | Treant | Arachsiam | Ravenous Hunter | Forsaken Giant
+In Once Human, which boss is inside the Monolith of Thirst in Chalk Peak? | Shadow Hound | Treant | Ravenous Hunter | Arachsiam
+In Once Human, which boss is inside the Forsaken Monolith in Red Sands? | Forsaken Giant | Shadow Hound | Treant | Ravenous Hunter
+In Once Human, which late-game region has no major settlement and hosts the hardest Prime War fights? | Blackheart / Blackheart Region | Dayton Wetlands | Broken Delta | Iron River
+In Once Human, which region is home to Meyer's Market? | Broken Delta | Red Sands | Chalk Peak | Iron River
+In Once Human, which region is home to the Tall Grass Inn? | Chalk Peak | Iron River | Dayton Wetlands | Red Sands
+In Once Human, which camp can you find in Iron River? | Greywater Camp | Deadsville | Blackfell | Meyer's Market
+In Once Human, what is the featured game mode of the Manibus scenario called? | Prime War / The Prime War | Rift War | Star Siege | Final Stand
+Which Once Human scenario was the PvP option when the game launched in 2024? | Evolution's Call | Manibus | The Way of Winter | Endless Dream
+In Once Human: Prismverse's Clash, which two factions fight each other? | Rosetta and Mayfly / Mayfly and Rosetta / Rosetta and Mayflies | The Column and the Vultures | Alliance and Horde | Light and Shadow
+In Once Human: Prismverse's Clash, what do the factions race to secure? | Prism Deviations / Prism Deviation | Monolith Cores | Supply Crates | Gold Bars
+Which Once Human scenario from July 2025 has a nightmare theme with old CRT TVs and creepy amusement parks? | Endless Dream / Endless Dreams | The Way of Winter | Prismverse's Clash | Manibus
+What is the name of Once Human's hardcore PvP spin-off mode that fully launched in 2025? | RaidZone / Raid Zone | Battlezone | Warzone | Blood Arena
+In Once Human, what animal is the Deviation called Lonewolf's Whisper? | Wolf / A wolf | Fox | Bear | Owl
+In Once Human, which Deviation do new players get during the tutorial? | Butterfly's Emissary | Mr. Wish | Lonewolf's Whisper | Pyro Dino
+In Once Human's Cargo Scramble event, what reward do players compete for? | Sproutlets / Sproutlet | Starchrom | Gold Bars | Acorns
+In Once Human's Cargo Scramble event, what vehicle must players stop to start the fight? | A truck / Truck / The truck | A train | A helicopter | A boat
+In Once Human, what is the everyday money you get from selling items to merchants? | Energy Links / Energy Link | Starchrom | Sproutlets | Bells
+In Once Human's lore, what was Rosetta's secret project to open a gate to another dimension called? | Silver Key / The Silver Key / Silver Key Project | Golden Gate | Black Box | Star Bridge
+In Once Human's lore, in what year was the Rosetta Institute founded? | 1967 | 1945 | 1999 | 2012
+In Once Human's lore, which university did Rosetta pour money into for its research? | Nalcott University | Arkham University | Starfall College | Rift Academy
+In Once Human, which region is home to the Mr. Wish Deviation? | Broken Delta | Red Sands | Chalk Peak | Blackheart
+In Once Human, defeating which boss can give you the Brave George Deviation? | Forsaken Giant | Shadow Hound | Treant | Arachsiam
+How many regions of Nalcott can you explore in Once Human's Manibus scenario? | 6 / Six | 4 | 8 | 10
+
+# --- [reserve-1] Nintendo ---
+In Super Mario Galaxy, who is the princess who watches over the star-shaped Lumas? | Rosalina | Daisy | Pauline | Peach
+Princess Daisy rules over which kingdom? | Sarasaland | Mushroom Kingdom | Dream Land | Hyrule
+Which lanky Mario character in purple is Wario's partner? | Waluigi | Bowser Jr. | Kamek | Dry Bones
+Which magical Koopa wizard on a broomstick raised Bowser? | Kamek | Lakitu | Hammer Bro | Iggy
+In Luigi's Mansion, what vacuum does Luigi use to catch ghosts? | Poltergust / Poltergust 3000 / Vacuum | Ghost Trap | Proton Pack | F.L.U.D.D.
+In Luigi's Mansion, which little professor helps Luigi? | Professor E. Gadd / E. Gadd / Professor Gadd | Professor Oak | Dr. Light | Professor Layton
+In Super Mario Bros. 3, which item gives Mario a raccoon tail to fly? | Super Leaf / Leaf | Cape Feather | Propeller Mushroom | Super Bell
+In Mario Kart, which item do you drop behind you to make racers slip? | Banana / Banana peel | Bob-omb | Green Shell | Mushroom
+In what year did the original Super Mario Bros. come out in Japan? | 1985 | 1981 | 1990 | 1988
+In Super Mario Odyssey, what do you collect to power Mario's hat-shaped ship? | Power Moons / Power Moon / Moons | Power Stars | Shine Sprites | Grand Stars
+In Super Mario 64, what does Mario jump into to enter most levels? | Paintings / Painting | Pipes | Doors | Mirrors
+In the original Donkey Kong, what job did Mario first have? | Carpenter | Plumber | Chef | Doctor
+In Dr. Mario, what does Mario throw to beat viruses? | Pills / Vitamins / Megavitamins / Capsules | Needles | Bubbles | Fireballs
+In Zelda: Majora's Mask, how many days do you have before the moon falls? | 3 / Three | 7 | 5 | 1
+In Zelda: Twilight Princess, what animal does Link turn into? | Wolf / A wolf | Fox | Bear | Hawk
+What is the name of the kingdom in most Legend of Zelda games? | Hyrule | Termina | Lorule | Holodrum
+In Tears of the Kingdom, which power lets Link stick objects together to build vehicles? | Ultrahand | Fuse | Recall | Ascend
+In Zelda, what are the big rock-eating mountain people called? | Gorons / Goron | Zoras | Ritos | Gerudo
+Kirby lives in Dream Land on which planet? | Popstar / Planet Popstar | Mobius | Zebes | Krypton
+In Animal Crossing: New Horizons, which boar sells turnips on Sunday mornings? | Daisy Mae | Joan | Sahara | Label
+In Animal Crossing, what are the names of Tom Nook's twin nephews? | Timmy and Tommy / Tommy and Timmy | Mabel and Sable | Kicks and Leif | Digby and Rover
+In Animal Crossing, which grumpy mole lectures you for not saving? | Mr. Resetti / Resetti | Digby | Gulliver | Blathers
+In Splatoon 3, what is the name of the main city hub? | Splatsville | Inkopolis | Octo Valley | Splashtown
+In Metroid, what is Samus's rolling ball form called? | Morph Ball | Speed Ball | Spin Ball | Roll Form
+In Metroid, which space dragon is Samus's archenemy? | Ridley | Kraid | Mother Brain | Phantoon
+Which Nintendo series stars heroes like Marth, Ike and Byleth? | Fire Emblem | Xenoblade Chronicles | Golden Sun | Advance Wars
+Which Super Smash Bros. racer is famous for the Falcon Punch? | Captain Falcon | Fox | Falco | Ness
+In Star Fox, which rabbit tells Fox to "Do a barrel roll!"? | Peppy Hare / Peppy | Slippy Toad | Falco Lombardi | Krystal
+Ness, who has a baseball bat and a red cap, is the hero of which game? | EarthBound / Mother 2 | Mega Man Legends | Golden Sun | Chrono Trigger
+Before video games, what was Nintendo first known for making? | Playing cards / Cards / Hanafuda cards | Toy cars | Bicycles | Radios
+In which Japanese city is Nintendo's headquarters? | Kyoto | Tokyo | Osaka | Nagoya
+In Pikmin, which color of Pikmin can survive fire? | Red | Blue | Yellow | White
+Which Nintendo console launched in June 2025? | Nintendo Switch 2 / Switch 2 | Switch Pro | Wii 2 | New 3DS
+Which Mario Kart game launched alongside the Nintendo Switch 2? | Mario Kart World | Mario Kart 9 | Mario Kart Tour | Mario Kart Live
+Which Nintendo handheld from 2004 had two screens, one of them a touchscreen? | Nintendo DS / DS | Game Boy Advance | Wii U | Game Boy Color
+What was Nintendo's red-and-black 3D headset console from 1995? | Virtual Boy | Power Glove | R.O.B. | Game Boy Light
+What are the Nintendo Switch's detachable controllers called? | Joy-Con / Joy-Cons / Joycon | DualSense | Nunchuk | WaveBird
+
+# --- [reserve-1] Pokémon ---
+Which legendary bird is an Ice-type Pokémon? | Articuno | Zapdos | Moltres | Lugia
+What does Magikarp evolve into? | Gyarados | Goldeen | Seaking | Milotic
+How many Pokémon can you carry in your party at once? | 6 / Six | 4 | 5 | 8
+What is the name of the handheld Pokémon encyclopedia? | Pokédex / Pokedex | PokéNav | Pokégear | Poké Radar
+Which type is completely immune to Normal-type moves? | Ghost | Rock | Steel | Psychic
+Which yellow duck Pokémon always seems to have a headache? | Psyduck | Farfetch'd | Ducklett | Golduck
+Which little Pokémon wears its mother's skull and carries a bone? | Cubone | Kangaskhan | Mandibuzz | Sandshrew
+Which region is the setting of Pokémon Gold and Silver? | Johto | Kanto | Hoenn | Sinnoh
+Who is the boss of Team Rocket? | Giovanni | Archie | Cyrus | Ghetsis
+Which evolution stone turns Pikachu into Raichu? | Thunder Stone | Fire Stone | Moon Stone | Leaf Stone
+What is the name of Ash's first rival in the Pokémon anime? | Gary Oak / Gary | Brock | Ritchie | Tracey
+Which Gym Leader in Cerulean City uses Water-type Pokémon? | Misty | Erika | Sabrina | Blaine
+Which giant sea Pokémon carries people across the water on its shell? | Lapras | Blastoise | Wailord | Tentacruel
+Which Pokémon is famous for repeating only "Wobbuffet!" for Team Rocket's Jessie? | Wobbuffet | Wynaut | Meowth | Arbok
+
+# --- [reserve-1] Minecraft ---
+In Minecraft, which Nether mobs will trade items with you for gold? | Piglins / Piglin | Villagers | Ghasts | Blazes
+In Minecraft, which giant white floating Nether mob cries and shoots fireballs? | Ghast | Blaze | Phantom | Vex
+In Minecraft, what do you give a wolf to tame it? | Bones / Bone | Fish | Wheat | Carrots
+In Minecraft, what do you feed a cat to tame it? | Raw fish / Fish / Raw cod / Cod / Salmon | Bones | Seeds | Carrots
+In Minecraft, what do you feed cows to make them breed? | Wheat | Carrots | Seeds | Apples
+In Minecraft, which item always points to your world spawn? | Compass | Clock | Map | Spyglass
+In Minecraft, what do you throw into the air to find a Stronghold? | Eye of Ender / Eyes of Ender | Ender Pearl | Blaze Rod | Snowball
+In Minecraft, which boss do you build with soul sand and wither skeleton skulls? | Wither / The Wither | Ender Dragon | Warden | Elder Guardian
+In Minecraft, which block do you need to brew potions? | Brewing Stand | Cauldron | Enchanting Table | Furnace
+In Minecraft, which red dust is used to build circuits and machines? | Redstone | Glowstone | Gunpowder | Sugar
+In Minecraft, which blue gem is needed to enchant items? | Lapis Lazuli / Lapis | Diamond | Sapphire | Prismarine
+In Minecraft, how many of most items fit in one stack? | 64 | 16 | 32 | 99
+In Minecraft Hardcore mode, how many lives do you get? | 1 / One | 3 | 5 | 9
+
+# --- [reserve-1] Online games and battle royale ---
+In Fortnite, what llama-shaped piñata is full of loot? | Supply Llama / Llama | Loot Goat | Treasure Camel | Prize Pony
+Which Fortnite mode takes away building completely? | Zero Build | Creative | Arena | Team Rumble
+Which battle royale game's first map was an island called Erangel? | PUBG / PlayerUnknown's Battlegrounds | Fortnite | Apex Legends | Warzone
+In Apex Legends, which medic legend heals with a drone? | Lifeline | Wraith | Bloodhound | Octane
+Which studio makes Apex Legends? | Respawn Entertainment / Respawn | Bungie | Riot Games | Epic Games
+What is the name of the free Call of Duty battle royale that launched in 2020? | Warzone / Call of Duty: Warzone | Blackout | Firestorm | Fallout Zone
+In Among Us, what do impostors do to turn off the lights or break the reactor? | Sabotage | Hack | Upgrade | Repair
+In Among Us, what do crewmates finish to win without voting anyone out? | Tasks / All tasks / Complete tasks | Puzzles | Races | Quizzes
+What is the name of the original spaceship map in Among Us? | The Skeld / Skeld | Polus | Mira HQ | The Airship
+Which hugely popular Roblox game is all about adopting pets? | Adopt Me! / Adopt Me | Brookhaven | Bloxburg | Jailbreak
+Which 2025 Roblox hit is about planting and selling crops? | Grow a Garden | Farm Town | Garden Tycoon | Plant Life
+In Palworld, what are the creatures you catch called? | Pals / Pal | Pokémon | Monsters | Spirits
+In Lethal Company, what do you collect from abandoned moons to meet your quota? | Scrap | Gold | Crystals | Gems
+Which studio originally made Fall Guys? | Mediatonic | Innersloth | Supercell | Psyonix
+
+# --- [reserve-1] Sega and classics ---
+Who is Sonic's black-and-red hedgehog rival? | Shadow / Shadow the Hedgehog | Silver | Knuckles | Metal Sonic
+What is the name of the pink hedgehog who adores Sonic? | Amy Rose / Amy | Cream | Rouge | Blaze
+Which Sonic character is a white bat and jewel thief? | Rouge / Rouge the Bat | Amy | Cream | Blaze
+What is the name of the giant emerald that Knuckles guards? | Master Emerald | Sol Emerald | Star Emerald | Moon Emerald
+What was Sega's 16-bit console called in North America? | Sega Genesis / Genesis | Dreamcast | Saturn | Game Gear
+What was the name of Atari's hit home console from 1977? | Atari 2600 / Atari VCS / VCS | Atari Jaguar | Atari Lynx | Atari ST
+Which company made the arcade game Pac-Man? | Namco / Bandai Namco | Atari | Sega | Taito
+Which company made the arcade game Space Invaders? | Taito | Namco | Atari | Konami
+Up, Up, Down, Down, Left, Right, Left, Right, B, A is the famous cheat code from which company? | Konami | Capcom | Sega | Atari
+In Dig Dug, what does the hero use to puff up enemies? | Air pump / Pump | Balloon | Hose | Bubble gun
+Which Atari game has you bounce a ball to break a wall of bricks? | Breakout | Pong | Arkanoid | Asteroids
+In Pac-Man, what is the first bonus fruit that appears? | Cherry / Cherries | Apple | Strawberry | Banana
+What are the four-square shapes in Tetris called? | Tetrominoes / Tetromino / Tetriminos / Tetrimino | Blockettes | Quadlets | Polybricks
+What sport is Tony Hawk's Pro Skater about? | Skateboarding / Skating | Snowboarding | Surfing | BMX
+
+# --- [reserve-1] PlayStation and Xbox ---
+In Halo, what are the giant ring-shaped worlds called? | Halos / Halo rings / Halo | Citadels | Dyson Rings | Orbitals
+In Halo, what is the name of the alliance of alien races you fight? | The Covenant / Covenant | The Flood | The Combine | The Locust
+Who is the main hero of Gears of War? | Marcus Fenix / Marcus | Master Chief | Doomguy | Kratos
+In the Greek God of War games, Kratos becomes the god of what? | War | Thunder | The sea | Death
+In God of War (2018), what is the name of Kratos's frosty axe? | Leviathan Axe | Blades of Chaos | Stormbreaker | Mjolnir
+In The Last of Us, which real-life fungus turns people into monsters? | Cordyceps | Mold | Mildew | Yeast
+Which studio makes Uncharted and The Last of Us? | Naughty Dog | Insomniac | Sucker Punch | Santa Monica Studio
+Which studio makes the PlayStation Spider-Man games? | Insomniac Games / Insomniac | Naughty Dog | Rocksteady | Sucker Punch
+What is the name of the knitted hero of LittleBigPlanet? | Sackboy | Astro | Ratchet | Sly
+Which little robot game won Game of the Year at The Game Awards 2024? | Astro Bot | Black Myth: Wukong | Final Fantasy VII Rebirth | Metaphor: ReFantazio
+What is the name of Ratchet's robot best friend? | Clank | Astro | Daxter | Chibi
+What kind of animal is the master thief Sly Cooper? | Raccoon | Fox | Cat | Raven
+Who is the samurai hero of Ghost of Tsushima? | Jin Sakai / Jin | Atsu | Kazuma | Ryu
+Who is the red-haired hunter hero of Horizon Zero Dawn? | Aloy | Ellie | Lara | Bayek
+In Horizon Zero Dawn, what are the animal-like enemies made of? | Metal / Machines / Robots | Stone | Ice | Wood
+What is the PlayStation 5 controller called? | DualSense | DualShock | Joy-Con | Wiimote
+What is Xbox's all-you-can-play game subscription called? | Game Pass / Xbox Game Pass | PlayStation Plus | Xbox Club | Switch Online
+Which PlayStation racing series calls itself "The Real Driving Simulator"? | Gran Turismo | Forza Motorsport | Need for Speed | Burnout
+
+# --- [reserve-1] PC and big franchises ---
+What is the name of Valve's PC game store? | Steam | Epic Games Store | GOG | Origin
+Which handheld gaming PC did Valve release in 2022? | Steam Deck | Steam Box | ROG Ally | Switch Lite
+In Overwatch, which hero is a Brazilian DJ who heals with music? | Lúcio / Lucio | Baptiste | Kiriko | Juno
+In Overwatch, which hero is a hamster rolling around in a mech ball? | Wrecking Ball / Hammond | Winston | Roadhog | Junkrat
+In Overwatch, which pro gamer pilots a pink mech? | D.Va / DVa | Zarya | Echo | Kiriko
+In League of Legends, which huge purple monster is the biggest objective in the river? | Baron Nashor / Baron | Rift Herald | Elder Dragon | Voidgrub
+In League of Legends, what are the small computer soldiers that march down the lanes called? | Minions / Minion | Creeps | Grunts | Troopers
+In Valorant, which British agent fights with fire? | Phoenix | Jett | Sova | Cypher
+In Valorant, which agent can heal teammates and bring them back to life? | Sage | Phoenix | Jett | Raze
+In World of Warcraft, who became the Lich King? | Arthas / Arthas Menethil | Thrall | Illidan | Sylvanas
+In World of Warcraft, which orc Warchief founded the city of Orgrimmar? | Thrall | Garrosh | Arthas | Varian
+Which Blizzard series is about fighting Diablo, the Lord of Terror? | Diablo | StarCraft | Warcraft | Overwatch
+The card game Hearthstone is set in which Blizzard universe? | Warcraft / World of Warcraft | Heroes of the Storm | Diablo | Overwatch
+In Skyrim, what are the cat-like people called? | Khajiit | Argonian | Bosmer | Orsimer
+What is the famous soda brand in the Fallout series? | Nuka-Cola / Nuka Cola | Buzz Cola | Slurm | Vim Pop
+What is the wrist computer worn in Fallout called? | Pip-Boy / Pip Boy / Pipboy | Vault Pad | Atom Watch | Nuka-Tab
+Which company makes Skyrim and Fallout 4? | Bethesda / Bethesda Game Studios | BioWare | Ubisoft | CD Projekt Red
+Which studio makes The Witcher and Cyberpunk 2077? | CD Projekt Red / CD Projekt | Bethesda | BioWare | Ubisoft
+In The Witcher 3, what is the name of Geralt's horse? | Roach | Epona | Agro | Torrent
+Which studio made Baldur's Gate 3? | Larian Studios / Larian | BioWare | Obsidian | Bethesda
+Baldur's Gate 3 is based on which tabletop game? | Dungeons & Dragons / Dungeons and Dragons / D&D | Warhammer | Pathfinder | Magic: The Gathering
+In Portal, what tool does Chell use to make portals? | Portal gun / Portal device / ASHPD | Gravity gun | Grapple beam | Freeze ray
+What is Gordon Freeman's famous tool and weapon in Half-Life? | Crowbar | Wrench | Baseball bat | Pipe
+In which city does the Resident Evil outbreak begin? | Raccoon City | Silent Hill | Night City | Midgar
+Which fighting game series is about the Mishima family? | Tekken | Street Fighter | Mortal Kombat | Soulcalibur
+
+# --- [reserve-1] Final Fantasy ---
+Which Final Fantasy game stars Tidus and Yuna? | Final Fantasy X / FFX / Final Fantasy 10 | Final Fantasy VII | Dragon Quest VIII | Kingdom Hearts
+Which Final Fantasy game stars Squall and his gunblade? | Final Fantasy VIII / FF8 / FFVIII / Final Fantasy 8 | Dragon Quest VIII | Chrono Trigger | Kingdom Hearts II
+In Final Fantasy VII, what is the name of the flower girl from the slums? | Aerith / Aeris | Tifa | Yuffie | Rinoa
+In Final Fantasy VII, who runs the 7th Heaven bar? | Tifa / Tifa Lockhart | Aerith | Yuffie | Barret
+In Final Fantasy, which little green cactus enemy runs away and shoots 1,000 needles? | Cactuar | Tonberry | Bomb | Malboro
+Which Final Fantasy XIV expansion came out in 2024? | Dawntrail | Endwalker | Shadowbringers | Stormblood
+In which Final Fantasy XIV expansion do you become the Warrior of Darkness? | Shadowbringers | Heavensward | Stormblood | Endwalker
+In Final Fantasy XIV, which snowy city-state is the heart of Heavensward? | Ishgard | Ul'dah | Gridania | Limsa Lominsa
+In Final Fantasy XIV, which race has horns and scales? | Au Ra | Viera | Hrothgar | Elezen
+In Final Fantasy XIV, which race has tall bunny ears? | Viera | Miqo'te | Lalafell | Au Ra
+In Final Fantasy XIV, what group of heroes do you join early in the story? | Scions of the Seventh Dawn / Scions | Crystal Braves | Immortal Flames | Order of the Twin Adder
+In Final Fantasy XIV, which empire invades Eorzea in the early story? | Garlean Empire / Garlemald / Garleans | Shinra | Galbadia | Palamecia
+
+# --- [reserve-1] Carbi's games ---
+In Phasmophobia, which tool do you use to check for freezing temperatures? | Thermometer | EMF Reader | Spirit Box | Crucifix
+In Phasmophobia, which tool shows a ghostly silhouette moving through a green laser grid? | D.O.T.S. Projector / DOTS Projector / DOTS | Video Camera | UV Light | Parabolic Microphone
+In Phasmophobia, what do you put on the floor to catch ghost footprints? | Salt | Flour | Sand | Chalk
+In Phasmophobia, how many pieces of evidence does each ghost usually leave? | 3 / Three | 2 | 4 | 5
+Which studio makes Phasmophobia? | Kinetic Games | Innersloth | Team Cherry | Supermassive Games
+In PowerWash Simulator, what is the name of the town you clean? | Muckingham | Pelican Town | Grimeton | Dirtford
+In Clair Obscur: Expedition 33, which engineer with a mechanical arm starts the story? | Gustave | Verso | Sciel | Monoco
+In Clair Obscur: Expedition 33, which city do the expeditions set out from? | Lumière / Lumiere | Paris | Lumina | Verdant
+
+# --- [reserve-1] Indie and cozy ---
+In Stardew Valley, who runs the general store? | Pierre | Gus | Clint | Robin
+In Stardew Valley, which rancher sells you animals? | Marnie | Robin | Gus | Pam
+In Stardew Valley, what do you complete to restore the Community Center? | Bundles / Bundle | Quests | Tokens | Puzzles
+In Stardew Valley, what are the little forest spirits living in the Community Center? | Junimos / Junimo | Koroks | Pikmin | Sprites
+Which studio made Terraria? | Re-Logic | Mojang | ConcernedApe | Chucklefish
+In Undertale, what is the name of the smiling flower you meet first? | Flowey | Toriel | Napstablook | Temmie
+Who is the human hero of Deltarune? | Kris | Frisk | Chara | Ralsei
+Which studio made Cuphead? | Studio MDHR | Team Cherry | Supergiant Games | Klei
+In Hades, what is the name of the three-headed dog? | Cerberus | Fluffy | Garm | Orthrus
+Who is the hero of Hades II? | Melinoë / Melinoe | Zagreus | Persephone | Nyx
+What is the name of the fallen bug kingdom in Hollow Knight? | Hallownest | Pharloom | Dirtmouth | Greenpath
+In Hollow Knight: Silksong, which kingdom is Hornet taken to? | Pharloom | Hallownest | Deepnest | Dirtmouth
+Which studio made the co-op games It Takes Two and Split Fiction? | Hazelight Studios / Hazelight | Naughty Dog | Remedy | Media Molecule
+The survival game Valheim is inspired by which mythology? | Norse / Viking / Norse mythology | Greek | Egyptian | Japanese
+In Sea of Thieves, what do players sail and adventure as? | Pirates / Pirate | Ninjas | Astronauts | Knights
+Where does most of Subnautica take place? | Underwater / Under the ocean / In the ocean / Ocean | In space | In a desert | In a jungle
+Which company makes Genshin Impact? | HoYoverse / miHoYo | NetEase | Tencent | Nexon
+In Genshin Impact, what is the name of your floating little guide? | Paimon | Navi | Fi | Tatl
+In Honkai: Star Rail, what is the name of the train you travel on? | Astral Express | Star Express | Galaxy Line | Polar Express
+In Five Nights at Freddy's, what is the name of the bear animatronic? | Freddy / Freddy Fazbear | Bonnie | Chica | Foxy
+In Five Nights at Freddy's, what is your job? | Night guard / Security guard / Guard | Chef | Janitor | Mechanic
+In Poppy Playtime, what is the name of the tall blue monster? | Huggy Wuggy | Kissy Missy | Mommy Long Legs | CatNap
+In Wordle, how many letters are in each word? | 5 / Five | 4 | 6 | 7
+
+# --- [reserve-1] Gaming words and streaming ---
+On Twitch, what does VOD stand for? | Video on demand | Viewer of the day | Video of drops | Very old download
+In games, what does HP usually stand for? | Health points / Hit points / Health | High power | Hero points | Heavy punch
+In gaming, what does it mean when something gets "nerfed"? | It gets weaker / Made weaker / Weaker / Weakened | It gets stronger | It gets deleted | It gets copied
+What does PvP stand for? | Player versus player / Player vs player | Points versus points | Power versus power | Party versus party
+What does IRL stand for? | In real life | In ranked league | Instant replay live | Item rarity level
+What does BRB stand for? | Be right back | Big red button | Boss raid battle | Bring rare boots
+On Twitch, what do viewers earn just by watching and can spend on channel rewards? | Channel Points / Points | Bits | Subs | Gems
+
+# --- [reserve-1] Geography ---
+What is the capital of Mexico? | Mexico City | Guadalajara | Cancún | Monterrey
+What is the capital of India? | New Delhi / Delhi | Mumbai | Kolkata | Bangalore
+What is the capital of Russia? | Moscow | St. Petersburg | Kyiv | Minsk
+What is the capital of Ireland? | Dublin | Belfast | Cork | Galway
+What is the capital of Greece? | Athens | Sparta | Thessaloniki | Corinth
+What is the capital of Argentina? | Buenos Aires | Santiago | Lima | Montevideo
+What is the capital of Thailand? | Bangkok | Phuket | Hanoi | Manila
+What is the capital of Kenya? | Nairobi | Mombasa | Lagos | Addis Ababa
+What is the capital of New Zealand? | Wellington | Auckland | Christchurch | Sydney
+What is the longest river in Africa? | Nile / The Nile / Nile River | Congo | Niger | Zambezi
+Which river flows through London? | Thames / River Thames / The Thames | Seine | Danube | Shannon
+What is the smallest country in the world? | Vatican City / Vatican | Monaco | San Marino | Liechtenstein
+Niagara Falls sits on the border between the United States and which country? | Canada | Mexico | Greenland | Cuba
+Which US state is nicknamed the Sunshine State? | Florida | California | Arizona | Hawaii
+Which US state is nicknamed the Lone Star State? | Texas | Alaska | Nevada | Oklahoma
+Which city is nicknamed the Big Apple? | New York City / New York / NYC | Chicago | Boston | Los Angeles
+In which US state is the Grand Canyon? | Arizona | Utah | Nevada | Colorado
+In which city is the Golden Gate Bridge? | San Francisco | Los Angeles | Seattle | San Diego
+In which US state is Mount Rushmore? | South Dakota | Nebraska | Wyoming | Montana
+Which is the largest of the Great Lakes? | Lake Superior / Superior | Lake Michigan | Lake Huron | Lake Erie
+What is the coldest continent? | Antarctica | Europe | Asia | North America
+What is the largest continent? | Asia | Africa | North America | Europe
+What is the largest island in the world? | Greenland | New Guinea | Borneo | Madagascar
+
+# --- [reserve-1] Science and nature ---
+What is the hardest natural material? | Diamond | Gold | Iron | Quartz
+Which planet spins on its side? | Uranus | Neptune | Saturn | Venus
+Which planet is farthest from the Sun? | Neptune | Uranus | Pluto | Saturn
+How long does it take Earth to travel once around the Sun? | 1 year / One year / A year / 365 days | 1 month | 1 day | 1 week
+Which part of a plant makes food from sunlight? | Leaves / Leaf | Roots | Stem | Flowers
+What is it called when plants make food from sunlight? | Photosynthesis | Respiration | Digestion | Evaporation
+Which organ pumps blood around your body? | Heart | Lungs | Liver | Brain
+How many teeth does an adult human usually have? | 32 | 28 | 30 | 36
+What is the largest land animal? | African elephant / Elephant | Giraffe | Hippo | Rhino
+What is the fastest bird when diving? | Peregrine falcon / Peregrine | Bald eagle | Ostrich | Hummingbird
+What is a baby goat called? | Kid | Lamb | Foal | Calf
+Which of these mammals lays eggs? | Platypus | Otter | Beaver | Koala
+How many arms does a starfish usually have? | 5 / Five | 6 | 8 | 4
+What is the biggest fish in the ocean? | Whale shark | Great white shark | Hammerhead shark | Tiger shark
+Which flightless bird lives in Antarctica? | Penguin / Emperor penguin | Ostrich | Puffin | Albatross
+What do you call a scientist who studies rocks? | Geologist | Chemist | Astronomer | Botanist
+Which scientist came up with the theory of relativity? | Albert Einstein / Einstein | Isaac Newton | Galileo Galilei | Nikola Tesla
+Who discovered penicillin? | Alexander Fleming / Fleming | Louis Pasteur | Marie Curie | Edward Jenner
+
+# --- [reserve-1] Art, history and stories ---
+Who painted The Starry Night? | Vincent van Gogh / Van Gogh | Claude Monet | Pablo Picasso | Leonardo da Vinci
+Who painted the ceiling of the Sistine Chapel? | Michelangelo | Raphael | Leonardo da Vinci | Donatello
+Which famous ship sank in 1912 after hitting an iceberg? | Titanic / RMS Titanic / The Titanic | Lusitania | Britannic | Queen Mary
+Which ancient civilization built Machu Picchu? | Inca / Incas / The Inca | Maya | Aztec | Olmec
+In which country did the ancient Olympic Games begin? | Greece / Ancient Greece | Italy | Egypt | Turkey
+Who was the first woman to win a Nobel Prize? | Marie Curie / Curie | Rosalind Franklin | Ada Lovelace | Florence Nightingale
+In what year did World War II end? | 1945 | 1944 | 1939 | 1950
+What was the name of the Wright brothers' first airplane? | Wright Flyer / Flyer | Spirit of St. Louis | Kitty Hawk | Skylark
+Who wrote The Cat in the Hat? | Dr. Seuss / Seuss | Roald Dahl | Shel Silverstein | Eric Carle
+Who wrote Charlie and the Chocolate Factory? | Roald Dahl / Dahl | Dr. Seuss | C.S. Lewis | Beverly Cleary
+What is the name of the great lion in The Chronicles of Narnia? | Aslan | Simba | Mufasa | Leo
+What is Winnie the Pooh's favorite food? | Honey | Jam | Berries | Fish
+In Toy Story, what is the name of the space ranger toy? | Buzz Lightyear / Buzz | Zurg | Rex | Hamm
+In Frozen, what is the name of the friendly snowman? | Olaf | Sven | Kristoff | Hans
+In Moana, what is the name of the shape-shifting demigod? | Maui | Tamatoa | Kakamora | Hei Hei
+What kind of creature is Shrek? | Ogre | Troll | Giant | Goblin
+In Despicable Me, what are Gru's little yellow helpers called? | Minions / Minion | Smurfs | Oompa Loompas | Jawas
+Which Pixar movie is about a rat who loves to cook? | Ratatouille | Up | Cars | Coco
+What is the name of the golden protocol droid in Star Wars? | C-3PO / C3PO / See-Threepio | R2-D2 | BB-8 | K-2SO
+Who is Luke Skywalker's father? | Darth Vader / Anakin Skywalker / Anakin / Vader | Obi-Wan Kenobi | Yoda | Han Solo
+Who is the headmaster of Hogwarts in the first Harry Potter book? | Albus Dumbledore / Dumbledore | Severus Snape | Minerva McGonagall | Rubeus Hagrid
+What sport do Harry Potter wizards play on broomsticks? | Quidditch | Quodpot | Broomball | Snitchball
+Which superhero is the king of Wakanda? | Black Panther | Captain America | Hulk | Falcon
+What is the name of Wonder Woman's magic rope? | Lasso of Truth | Lasso of Power | Golden Rope | Rope of Justice
+
+# --- [reserve-1] Sports, food and numbers ---
+How many strings does a violin have? | 4 / Four | 5 | 6 | 3
+In tennis, what is a score of zero called? | Love | Nil | Blank | Duck
+In bowling, what is it called when you get three strikes in a row? | Turkey / A turkey | Hat trick | Triple | Eagle
+In golf, what is a score of one under par called? | Birdie | Eagle | Bogey | Albatross
+How many holes are in a standard round of golf? | 18 | 9 | 12 | 20
+In baseball, how many strikes make a strikeout? | 3 / Three | 4 | 2 | 5
+Which sport is played with a shuttlecock? | Badminton | Tennis | Squash | Volleyball
+Which board game has kings, queens, bishops and knights? | Chess | Checkers | Go | Backgammon
+In chess, which piece moves in an L shape? | Knight | Bishop | Rook | Queen
+How many squares are on a chessboard? | 64 | 32 | 100 | 81
+What is the main ingredient in hummus? | Chickpeas / Chickpea / Garbanzo beans | Lentils | Peas | Black beans
+Which nut is used to make marzipan? | Almonds / Almond | Peanuts | Walnuts | Cashews
+What is the yellow part of an egg called? | Yolk | White | Shell | Albumen
+Which vegetable makes your eyes water when you cut it? | Onion | Carrot | Potato | Celery
+How many seconds are in one hour? | 3600 / 3,600 | 360 | 6000 | 1200
+What is 7 times 8? | 56 | 54 | 58 | 63
+What is 15 percent of 200? | 30 | 15 | 20 | 35
+How many zeros are in one million? | 6 / Six | 5 | 7 | 9
+How many letters are in the English alphabet? | 26 / Twenty-six / Twenty six | 24 | 25 | 28
+Which letter is used most often in English words? | E | A | T | S

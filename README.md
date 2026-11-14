@@ -10,4 +10,4 @@ https://raw.githubusercontent.com/natejnixon/carbi-trivia/main/questions-current
 Question | Correct | Wrong 1 | Wrong 2 | Wrong 3
 ```
 
-Lines starting with `#` are comments and are ignored. The file is refreshed weekly. Do not edit it by hand during a stream.
+Lines starting with `#` are comments and are ignored. The list holds 600 questions: a main batch plus a 300-question reserve, rotated weekly. Do not edit it by hand during a stream.
