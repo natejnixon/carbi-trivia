@@ -1,5 +1,5 @@
-# Carbi-Trivia question list: 605 questions (written 2026-11-16)
-# Batch reserve-1: 300 questions (about 30 Once Human, about 185 other games, the rest general knowledge). Promoted from reserve to the main batch on 2026-11-16.
+# Carbi-Trivia question list: 604 questions (written 2026-11-16)
+# Batch reserve-1: 299 questions (about 30 Once Human, about 185 other games, the rest general knowledge). Promoted from reserve to the main batch on 2026-11-16.
 # Batch reserve-2: 300 more in the same mix, kept as a buffer. Both batches are live in this file.
 # Format (one per line):  Question | Correct answer / other accepted spellings | Wrong 1 | Wrong 2 | Wrong 3
 # Lines starting with # are ignored. question-history.tsv tracks every question ever used.
@@ -336,7 +336,6 @@ What is 7 times 8? | 56 | 54 | 58 | 63
 What is 15 percent of 200? | 30 | 15 | 20 | 35
 How many zeros are in one million? | 6 / Six | 5 | 7 | 9
 How many letters are in the English alphabet? | 26 / Twenty-six / Twenty six | 24 | 25 | 28
-Which letter is used most often in English words? | E | A | T | S
 
 # ===== Reserve batch: reserve-2 (added 2026-11-16) =====
 # --- [reserve-2] Once Human ---
